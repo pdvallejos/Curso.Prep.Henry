@@ -1,0 +1,17 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:espacio en memoria donde se almacena cualquier tipo de dato o informacion.
+	como una caja, donde almacenamos un tipo de dato.
+---------------------------------------------------------------------------------------
+Strings: es una cadena de texto o caractereres que se escriben entre comillas.
+---------------------------------------------------------------------------------------
+Funciones (argumentos, return): un conjunto de instrucciones que realiza una tarea o calcula un valor
+para ello se le pasa valores y luego de la instruccion solicitada devuelve un resultado.
+
+---------------------------------------------------------------------------------------
+Declaraciones if: es una estructura de control usada para tomar decisiones.
+	se evalúa una expresión, si da resultado positivo se realizan la accion
+	sino no.
+
+---------------------------------------------------------------------------------------
+Valores booleanos (true, false): son los valores que pueden tomar solo dos caminos, verdadero o falso.
