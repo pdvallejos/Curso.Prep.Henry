@@ -1,0 +1,1 @@
+Array: son objetos similares a una lista, como por ejemplo una lista de compras de un supermercado.
