@@ -1,0 +1,24 @@
+/* estilo de ID */
+#thirdDiv{           
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 8px solid blue;
+    border-radius: 10px;
+}
+#spanId{
+    font-size: 18px;
+    margin-left: 50px;
+}
+/* estilo de CLASES */
+.divClass{
+
+}
+/* estilo de TIPOS */
+h1{
+    color: green;
+}
+img{
+    width: 400px;
+}

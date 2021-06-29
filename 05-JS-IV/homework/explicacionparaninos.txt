@@ -1,0 +1,8 @@
+* Objetos: es una coleccion de propiedades, como decir una pelota es el objeto y las propiedades es el color
+            el material con la que se hace etc.
+* Propiedades: las propiedades es con lo que se componen los objetos.
+* Métodos:  es una funcion que se le asigna a los objetos.
+* Bucle `for…in`: sirve para recorrer las propiedades enumerables de un objeto.
+* Notación de puntos vs notación de corchetes: sirven para acceder a las propiedades y funciones
+                de un objeto. la diferencia es que la notacion de corchetes permite caracteres no validos
+                o espacios y en la notacion de puntos no lo permite.

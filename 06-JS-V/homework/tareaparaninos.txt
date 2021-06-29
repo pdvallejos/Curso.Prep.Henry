@@ -1,0 +1,5 @@
+* `prototype`: son los metodos y propiedades eredadas de un objeto.
+
+
+* _Constructors_ (de Clases): es una plantilla o molde, con el cual vas a crear diferentes
+                caracteristicas de las clases.

@@ -1,1 +1,6 @@
-Array: son objetos similares a una lista, como por ejemplo una lista de compras de un supermercado.
+for: es una estructura de control para indicar desde un principio el numero maximo
+de veces que se va a repetir el bucle.
+
+`&&`, `||`, `!`: son comparadores, es como decir si manzana &&(y) naranja son iguales, o si 
+                manzana ||(o) naranja son frutas, y el signo de admiracion significa negacion
+                es decir si la manzana !=(no es igual) a la naranja.
